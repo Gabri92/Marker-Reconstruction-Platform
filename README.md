@@ -4,5 +4,6 @@ This code manages the controller of a platform used for image analysis. It is co
 1) Managing of the communication between the controller and a FastApi server
 2) Managing of serial communication with the hardware dedicated to the image analysys (Nvidia Jetson Nano)
 3) Communication between the controller and a thingsboard interface, via MQTT
+4) Control of the platform's hardware
 
 N.B. = The software development is still ongoing, due to the lack of part of the hardware
