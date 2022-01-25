@@ -46,7 +46,7 @@ void incomingSerial()
     Serial.println("@");
     // Copy the string message to a json object
     DeserializationError err = deserializeJson(inputJson, s);
-    if (err == !DeserializationError::Ok) 
+    if (err != DeserializationError::Ok) 
     {
       Serial.print("deserializeJson() returned ");
       Serial.println(err.c_str());
