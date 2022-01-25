@@ -6,4 +6,8 @@ This code manages the controller of a platform used for image analysis. It is co
 3) Communication between the controller and a thingsboard interface, via MQTT
 4) Control of the platform's hardware
 
+Hardware: Arduino mkr Wifi 1010
+IDE: Visual Studio Code
+
 N.B. = The software development is still ongoing, due to the lack of part of the hardware
+
