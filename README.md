@@ -9,5 +9,5 @@ This code manages the controller of a platform used for image analysis. It is co
 <b>Hardware</b>: Arduino mkr Wifi 1010<br>
 <b>IDE</b>: Visual Studio Code
 
-N.B. = The software development is still ongoing, due to the lack of part of the hardware
+N.B. = The software development is still ongoing, due to the lack of part of the hardware. In particular, the control part is currently missing.
 
